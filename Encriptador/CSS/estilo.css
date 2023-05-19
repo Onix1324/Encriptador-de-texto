@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(27, 24, 24);
+}
+
+h1{
+    color: rgb(64, 221, 44);
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: rgb(25, 121, 12);
+    display: flex;
+    justify-content: center;
+}
+
+.areasDeTexto{
+    display: flex;
+    justify-content: center;
+}
